@@ -1,4 +1,4 @@
-![Deeplearn Banner](HackathonPosterDeepLearn2025_short.png)
+![Deeplearn Banner](HackathonPosterDeepLearn2026_short.png)
 
 We are pleased to announce the **DeepLearn 2026 Hackathon Competition** that will take place from **July 6-XX, 2026** in a hybrid format. The competition is open to all DeepLearn participants. The hackathon will focus on applying **machine learning** techniques to a variety of realistic challenges, including those from the fields of science and humanities. 
 
