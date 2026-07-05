@@ -4,7 +4,7 @@
 
 A reference notebook for this challenge can be found on the Colab link below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/DeepLearnHackathon/blob/main/HiggsBosonClassificationChallenge/higgs_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BoGGoG/DeepLearnHackathon_2026/blob/main/HiggsBosonClassificationChallenge/higgs_classification.ipynb)
 
 
 

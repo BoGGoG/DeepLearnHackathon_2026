@@ -1,23 +1,24 @@
-![Deeplearn Banner](HackathonPosterDeepLearn2026_short.png)
+We are pleased to announce the **DeepLearn 2026 Hackathon Competition**, taking place from **July 6–31, 2026** in a hybrid format. The competition is open to all DeepLearn participants and focuses on applying **machine learning** techniques to realistic challenges from science and the humanities.
 
-We are pleased to announce the **DeepLearn 2026 Hackathon Competition** that will take place from **July 6-XX, 2026** in a hybrid format. The competition is open to all DeepLearn participants. The hackathon will focus on applying **machine learning** techniques to a variety of realistic challenges, including those from the fields of science and humanities. 
+Anyone interested in learning more about machine learning and trying their hand at the competition is welcome. Participants are encouraged to self-organize into small teams or work independently on one or more challenges. Work can be completed on the participants' own schedules.
 
-Anyone interested in learning more about machine learning techniques and trying their hand at the competition is welcome. Participants are encouraged to self-organize into small teams or work on their own to devise unique solutions to the challenge(s). The participants can work on the challenges on their own schedule. The competition will run for three weeks, however only a small fraction of that time is needed to obtain competitive results. Participants will have opportunities to interact with the organizers and with each other in person, via Zoom and on Slack. The **virtual kickoff meeting** will be on **Monday, July 6 (18:00 CET)** on [Zoom](). The in-person meeting will be on **XX, July XXst (XX:XX CET)**. Please see the Hackathon Slack page for meeting details and additional information. Winners will receive certificates and prizes.
+The **virtual kickoff meeting** will be held on **Monday, July 6 at 18:00 CET** on [Zoom](https://ua-edu.zoom.us/j/83389981726?pwd=YUfkyzuqXhI1gq5YydKd8wSEqDO0kN.1). The first in-person session will be held on **Monday, July 20 at 18:00 CET**, as listed in the [official DeepLearn 2026 schedule](https://deeplearn.irdta.eu/2026/schedule/).
 
- Interested participants can register via Slack at [here]().
- [Pre-Hackathon survey]().   
- [Post-Hackathon survey]().
+- [Shared hackathon Slack workspace](https://deeplearn2025.slack.com/) (existing members; the workspace URL retains its original `deeplearn2025` name)
+- [Request a Slack invitation](mailto:sgleyzer@ua.edu?subject=DeepLearn%202026%20Hackathon%20Slack%20invitation)
+- [Pre-hackathon survey](https://universityofalabama.az1.qualtrics.com/jfe/form/SV_8bJJW9ehpwxjyZ0)
+- [Post-hackathon survey](https://universityofalabama.az1.qualtrics.com/jfe/form/SV_d4H8Vf6LcIlTdfo)
 
 There are seven main challenges:
-* Higgs Boson Challenge (Classification, General)
-<!-- * Particle Images Challenge (Classification, Computer Vision) -->
-* Strong Lensing Challenge (Multi-class Classification, Superresolution, Computer Vision)
-* RenAIssance Challenge (NLP, transcription)
-<!-- * NMR Spin Challenge (Multi-Target Regression) -->
-* Exoplanet Search (Classification, Image Analysis)
-* Quantum Machine Learning (Anomaly Detection, Quantum Computing)
 
+- [Higgs Boson Challenge](HiggsBosonClassificationChallenge/) (classification)
+- [Particle Images Challenge](ParticleImagesChallenge/) (classification, computer vision)
+- [Strong Lensing Challenge](GravitationalLensingChallenge/) (multi-class classification, super-resolution, computer vision)
+- [RenAIssance Challenge](NLPRenaissanceChallenge/) (NLP, transcription)
+- [NMR Spin Challenge](NMRSpinChallenge/) (multi-target regression)
+- [Exoplanet Search Challenge](ExoplanetSearchChallenge/) (classification, image analysis)
+- [Quantum Machine Learning Challenge](QMLChallenge/) (anomaly detection, quantum computing)
 
-Please find more details and example Jupyter notebooks inside each challenge folder. 
+Please find more details and example Jupyter notebooks inside each challenge folder.
 
-Solutions are due on XX, July XXst at XX:XX CET. Winners will receive certificates and prizes.
+Solutions are due on **Friday, July 31 at 18:00 CET**. Winners will receive certificates and prizes.
